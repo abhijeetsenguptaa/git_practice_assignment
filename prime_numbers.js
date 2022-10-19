@@ -3,7 +3,7 @@ let num = 13 ;
 let count = 0 ;
 
 for(i=1;i<=num;i++){
- if(13%i==0){
+ if(num%i==0){
  count++;
 }
 
